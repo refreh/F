@@ -1,0 +1,30 @@
+button{
+    width: 350px;
+    height: 80px;
+    font-size: 35px;
+    font-family: 'Press Start 2P';
+
+    font-weight: bold;
+    color: #fff;
+    
+    margin: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #00471b;
+
+}
+
+.boton-click{
+    background-color: #5B4B8A;
+
+}
+
+
+.boton-reiniciar{
+    background-color: #7858A6;
+    width: 350px;
+    height: 80px;
+
+}
